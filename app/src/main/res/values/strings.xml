@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Garbarata Ops</string>
+    <string name="airport_name">Sultan Hasanuddin International Airport</string>
+    <string name="operator_division">Airside Operation · InJourney Airports</string>
+    <string name="login_subtitle">Sistem Pencatatan Doking &amp; Undoking Garbarata Waktu Nyata</string>
+    <string name="cd_airside_emblem">Lambang Airside Operation InJourney Airports</string>
+    <string name="cd_sultan_hasanuddin_logo">Logo Bandara Internasional Sultan Hasanuddin</string>
+    <string name="cd_injourney_logo">Logo InJourney Airports</string>
+    <string name="cd_theme_switcher">Ubah pengaturan tema tampilan</string>
+    <string name="cd_export_csv">Ekspor log ke CSV untuk Google Sheets</string>
+    <string name="cd_logout">Keluar dari akun</string>
+    <string name="cd_back">Kembali</string>
+    <string name="cd_add_user">Tambah petugas baru</string>
+    <string name="cd_edit_log">Edit catatan operasi</string>
+    <string name="cd_verify_log">Verifikasi catatan operasi</string>
+</resources>

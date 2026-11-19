@@ -1,0 +1,6 @@
+{
+  "name": "Garbarata Ops",
+  "description": "Aplikasi pencatatan doking dan undoking garbarata real-time Bandara Internasional Sultan Hasanuddin (InJourney Airports).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
